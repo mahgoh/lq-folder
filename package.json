@@ -1,0 +1,25 @@
+{
+  "name": "lq-folder",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "esno index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahgoh/lq-folder.git"
+  },
+  "author": "Marco Kaufmann <marcokaufmann@malako.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahgoh/lq-folder/issues"
+  },
+  "homepage": "https://github.com/mahgoh/lq-folder#readme",
+  "dependencies": {
+    "esno": "^0.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.5"
+  }
+}
